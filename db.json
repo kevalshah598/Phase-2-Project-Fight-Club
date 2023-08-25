@@ -1,0 +1,500 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Iron Man",
+      "image": "https://sm.mashable.com/mashable_me/photo/default/5dd2c8f82ef46e0db3fe07a6e3285c2f_ay2g.jpg",
+      "superhero": true,
+      "power1": "Power Armor Suit",
+      "power2": "Genius-level Intellect"
+    },
+    {
+      "id": 2,
+      "name": "Hulk",
+      "image": "https://jscottcampbell.com/cdn/shop/products/Hulk_7_2022_B_virgin_1024px.png?v=1650632288&width=675",
+      "superhero": true,
+      "power1": "Superhuman Strength",
+      "power2": "Regenerative Healing"
+    },
+    {
+      "id": 3,
+      "name": "Thor",
+      "image": "https://cdn.marvel.com/content/1x/6_5.jpg",
+      "superhero": true,
+      "power1": "Godly Strength",
+      "power2": "Control of Mjolnir"
+    },
+    {
+      "id": 4,
+      "name": "Captain America",
+      "image": "https://upload.wikimedia.org/wikipedia/en/b/bf/CaptainAmericaHughes.jpg",
+      "superhero": true,
+      "power1": "Enhanced Super Soldier",
+      "power2": "Vibranium Shield"
+    },
+    {
+      "id": 5,
+      "name": "Hawkeye",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Hawkeye_%28Clinton_Barton%29.png/220px-Hawkeye_%28Clinton_Barton%29.png",
+      "superhero": true,
+      "power1": "Master Archer",
+      "power2": "Expert Marksman"
+    },
+    {
+      "id": 6,
+      "name": "Black Widow",
+      "image": "https://media.dcbservice.com/xlarge/MAY212703.jpg",
+      "superhero": true,
+      "power1": "Exceptional Martial Artist",
+      "power2": "Espionage Skills"
+    },
+    {
+      "id": 7,
+      "name": "Rocket Raccoon",
+      "image": "https://upload.wikimedia.org/wikipedia/en/1/1b/Rocketraccoon.png",
+      "superhero": true,
+      "power1": "Genius-Level Intellect",
+      "power2": "Master Marksman"
+    },
+    {
+      "id": 8,
+      "name": "Star-Lord",
+      "image": "https://media.comicbook.com/wp-content/uploads/2014/04/The-Legendary-Star-Lord-1-Cover-McNiven-84693.jpg",
+      "superhero": true,
+      "power1": "Expert Pilot",
+      "power2": "Cosmic Energy Manipulation"
+    },
+    {
+      "id": 9,
+      "name": "Groot",
+      "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/marvel-studios-cinematic-universe/1/16/Groot_textless.jpg",
+      "superhero": true,
+      "power1": "Shapeshifting",
+      "power2": "Regenerative Healing"
+    },
+    {
+      "id": 10,
+      "name": "Quicksilver",
+      "image": "https://static.marvelsnap.pro/art/Quicksilver.webp",
+      "superhero": true,
+      "power1": "Superhuman Speed",
+      "power2": "Enhanced Reflexes"
+    },
+    {
+      "id": 11,
+      "name": "War Machine",
+      "image": "https://comicvine.gamespot.com/a/uploads/scale_medium/11/113509/4985511-war%20machine%20anad.jpg",
+      "superhero": true,
+      "power1": "Enhanced Weaponry",
+      "power2": "Flight"
+    },
+    {
+      "id": 12,
+      "name": "Falcon",
+      "image": "https://blackcomicbookcharacters.files.wordpress.com/2012/12/falcon.jpg?w=584",
+      "superhero": true,
+      "power1": "Mechanical Wings",
+      "power2": "Connection with Birds"
+    },
+    {
+      "id": 13,
+      "name": "Black Panther",
+      "image": "https://ironusa.vtexassets.com/arquivos/ids/192798/090357_0.jpg?v=637909345411270000",
+      "superhero": true,
+      "power1": "Vibranium Suit",
+      "power2": "Superhuman Agility"
+    },
+    {
+      "id": 14,
+      "name": "Dr. Strange",
+      "image": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/68065/8768812-8651456135-docto.jpg",
+      "superhero": true,
+      "power1": "Mystical Sorcery",
+      "power2": "Astral Projection"
+    },
+    {
+      "id": 15,
+      "name": "Spider Man",
+      "image": "https://upload.wikimedia.org/wikipedia/en/2/21/Web_of_Spider-Man_Vol_1_129-1.png",
+      "superhero": true,
+      "power1": "Spider-Sense",
+      "power2": "Wall-Crawling"
+    },
+    {
+      "id": 16,
+      "name": "Gamora",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/08/Gamora-cover.jpg",
+      "superhero": true,
+      "power1": "Expert Combatant",
+      "power2": "Enhanced Strength and Durability"
+    },
+    {
+      "id": 17,
+      "name": "Winter Soldier",
+      "image": "https://i.pinimg.com/1200x/94/fe/e5/94fee5d4b406561c05f73a069289c2b2.jpg",
+      "superhero": true,
+      "power1": "Cybernetic Arm",
+      "power2": "Expert Marksman"
+    },
+    {
+      "id": 18,
+      "name": "Nick Fury",
+      "image": "https://comicvine.gamespot.com/a/uploads/scale_medium/12/124259/8820211-ezgif-1-a0ae1e5c49.jpg",
+      "superhero": true,
+      "power1": "Strategic Mastermind",
+      "power2": "Espionage Skills"
+    },
+    {
+      "id": 19,
+      "name": "Batman",
+      "image": "https://i.ebayimg.com/images/g/Gl0AAOSwDk1fbjV4/s-l1200.webp",
+      "superhero": true,
+      "power1": "Master Detective",
+      "power2": "Strength"
+    },
+    {
+      "id": 20,
+      "name": "Superman",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/35/Supermanflying.png",
+      "superhero": true,
+      "power1": "Super Strength",
+      "power2": "Flight"
+    },
+    {
+      "id": 21,
+      "name": "Aquaman",
+      "image": "https://www.7ate9comics.com/cdn/shop/products/7-ate-9-comics-art-print-aquaman-by-jim-lee-print-12-x16-14783580143661.jpg?v=1612726184",
+      "superhero": true,
+      "power1": "Atlantean Physiology",
+      "power2": "Telepathic Communication with Marine Life"
+    },
+    {
+      "id": 22,
+      "name": "Flash",
+      "image": "https://www.usatoday.com/gcdn/-mm-/5d94b5ec9e71d95f0337420b5ad90f3346bd0661/c=30-346-1956-2911/local/-/media/USATODAY/test/2014/01/13//1389651012000-XXX-FLS-30.jpg",
+      "superhero": true,
+      "power1": "Super Speed",
+      "power2": "Speed Force Connection"
+    },
+    {
+      "id": 23,
+      "name": "Wonder Woman",
+      "image": "https://www.usatoday.com/gcdn/-mm-/afd5ee850218d82a9800548997fd0607075a3cbe/c=23-315-2004-2965/local/-/media/USATODAY/USATODAY/2014/06/30/1404161899000-WONDER-WOMAN-36-COMICS-JY-665--65511024.JPG?width=660&height=883&fit=crop&format=pjpg&auto=webp",
+      "superhero": true,
+      "power1": "Superhuman Strength",
+      "power2": "Lasso of Truth"
+    },
+    {
+      "id": 24,
+      "name": "Cyborg",
+      "image": "https://static.dc.com/sites/default/files/imce/2018/08-AUG/Cyborg_v01_r01_5b6c7d7bef1616.90753062.jpg",
+      "superhero": true,
+      "power1": "Technopathy",
+      "power2": "Superhuman Strength and Durability"
+    },
+    {
+      "id": 25,
+      "name": "Green Arrow",
+      "image": "https://i.pinimg.com/originals/56/6a/f2/566af2989cc4aa5a765b671c0902b0d1.jpg",
+      "superhero": true,
+      "power1": "Master Archer",
+      "power2": "Martial Arts Skills"
+    },
+    {
+      "id": 26,
+      "name": "Green Lantern",
+      "image": "https://upload.wikimedia.org/wikipedia/en/8/80/Green_Lantern_Rebirth_6.jpg",
+      "superhero": true,
+      "power1": "Power Ring Constructs",
+      "power2": "Flight"
+    },
+    {
+      "id": 27,
+      "name": "Catwoman",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWG3bjkftVW8BLqRfS5guuuPcQGchBtKLqfA&usqp=CAU",
+      "superhero": true,
+      "power1": "Acrobatics",
+      "power2": "Agility"
+    },
+    {
+      "id": 28,
+      "name": "Nightwing",
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/41/Nightwing_Infobox.jpg",
+      "superhero": true,
+      "power1": "Expert Acrobat",
+      "power2": "Martial Arts Mastery"
+    },
+    {
+      "id": 29,
+      "name": "Harold",
+      "image": "https://i.pinimg.com/1200x/4d/b7/b7/4db7b7ecb39c4eebc5b8f5358773e4a2.jpg",
+      "superhero": true,
+      "power1": "Omnipotence",
+      "power2": "Shapeshifting"
+    },
+    {
+      "id": 30,
+      "name": "Homelander",
+      "image": "https://64.media.tumblr.com/664595a14fc71d05e6068d9c7728e762/7ffcb80d1bd83cbe-da/s1280x1920/7b6a6577f6b65fe2522bc1818c448615db98add5.jpg",
+      "superhero": true,
+      "power1": "Super Strength and Durability",
+      "power2": "Flight"
+    },
+    {
+      "id": 31,
+      "name": "Mandarin",
+      "image": "https://upload.wikimedia.org/wikipedia/en/c/ca/Mandarin_%28Marvel_Comics_character_circa_2011%29.png",
+      "superhero": false,
+      "power1": "Ten Power Rings",
+      "power2": "Mastery of Martial Arts"
+    },
+    {
+      "id": 32,
+      "name": "Abomination",
+      "image": "https://i.pinimg.com/1200x/e8/da/c1/e8dac13b48ff7d3ec60bdef2ad17eb3b.jpg",
+      "superhero": false,
+      "power1": "Superhuman Strength",
+      "power2": "Regenerative Healing"
+    },
+    {
+      "id": 33,
+      "name": "Loki",
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/45/Loki_Laufeyson_Earth_616.jpg",
+      "superhero": false,
+      "power1": "Shapeshifting",
+      "power2": "Illusion Manipulation"
+    },
+    {
+      "id": 34,
+      "name": "Red Skull",
+      "image": "https://upload.wikimedia.org/wikipedia/en/e/ec/Red_Skull_%28Johann_Schmidt%29.png",
+      "superhero": false,
+      "power1": "Strategic Mastermind",
+      "power2": "Indomitable Willpower"
+    },
+    {
+      "id": 35,
+      "name": "Ultron",
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/4f/Ultron2013.jpg",
+      "superhero": false,
+      "power1": "Technological Mastery",
+      "power2": "Adaptive Evolution"
+    },
+    {
+      "id": 36,
+      "name": "Doctor Octopus",
+      "image": "https://upload.wikimedia.org/wikipedia/en/b/bc/Dr._Octopus_Marvel.jpg",
+      "superhero": false,
+      "power1": "Mechanical Tentacles",
+      "power2": "Genius-level Intellect"
+    },
+    {
+      "id": 37,
+      "name": "Ronan the Accuser",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/91/Annihilation_Ronan_Vol_1_4.png",
+      "superhero": false,
+      "power1": "Universal Weapon",
+      "power2": "Enhanced Strength and Durability"
+    },
+    {
+      "id": 38,
+      "name": "Thanos",
+      "image": "https://upload.wikimedia.org/wikipedia/en/c/cd/Thanos_Infinity_4.png",
+      "superhero": false,
+      "power1": "Superhuman Strength",
+      "power2": "Cosmic Energy Manipulation"
+    },
+    {
+      "id": 39,
+      "name": "Kang the Conqueror",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/kang-comics-1676569875.jpeg?crop=0.684xw:0.450xh;0.185xw,0.0672xh&resize=1200:*",
+      "superhero": false,
+      "power1": "Time Travel and Manipulation",
+      "power2": "Genius-level Intellect"
+    },
+    {
+      "id": 40,
+      "name": "Magneto",
+      "image": "https://upload.wikimedia.org/wikipedia/en/e/e9/Magneto_%28Marvel_Comics_character%29.jpg",
+      "superhero": false,
+      "power1": "Magnetism Manipulation",
+      "power2": "Electromagnetic Spectrum Manipulation"
+    },
+    {
+      "id": 41,
+      "name": "Electro",
+      "image": "https://3.bp.blogspot.com/-jjlEIgqw_5Q/VqqT7IXUmjI/AAAAAAAAIlA/D2Ko8CuuQRg/s1600/electro%2Bmarvel.jpg",
+      "superhero": false,
+      "power1": "Electrokinesis",
+      "power2": "Energy Absorption"
+    },
+    {
+      "id": 42,
+      "name": "Baron Mordo",
+      "image": "https://comicvine.gamespot.com/a/uploads/scale_medium/10/100647/6041057-mordo.jpg",
+      "superhero": false,
+      "power1": "Mystic Arts Mastery",
+      "power2": "Energy Projection"
+    },
+    {
+      "id": 43,
+      "name": "Green Goblin",
+      "image": "https://upload.wikimedia.org/wikipedia/en/5/52/Green_Goblin_in_Spider-Man_%282002_film%29.png",
+      "superhero": false,
+      "power1": "Goblin Formula Enhancements",
+      "power2": "Pumpkin Bombs and Gadgets"
+    },
+    {
+      "id": 44,
+      "name": "Yellowjacket",
+      "image": "https://qph.cf2.quoracdn.net/main-qimg-ec36182b3878d0ebf0f24837ec8bd26c-lq",
+      "superhero": false,
+      "power1": "Size Manipulation",
+      "power2": "Insect Communication"
+    },
+    {
+      "id": 45,
+      "name": "Lizard",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/91/Lizard_%28Curt_Connors%29.jpg",
+      "superhero": false,
+      "power1": "Regenerative Healing",
+      "power2": "Superhuman Strength"
+    },
+    {
+      "id": 46,
+      "name": "Sandman",
+      "image": "https://www.writeups.org/wp-content/uploads/Sandman-Marvel-Comics-Spider-Man-Baker-e.jpg",
+      "superhero": false,
+      "power1": "Sand Manipulation",
+      "power2": "Shapeshifting"
+    },
+    {
+      "id": 47,
+      "name": "Hela",
+      "image": "https://comicvine.gamespot.com/a/uploads/scale_medium/3/33913/1466090-14_avengers_prime_5_adams_variant_.jpg",
+      "superhero": false,
+      "power1": "Necromancy",
+      "power2": "Immortility"
+    },
+    {
+      "id": 48,
+      "name": "Doctor Doom",
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/60/Doctor_Doom_%282018%29.jpg",
+      "superhero": false,
+      "power1": "Genius-Level Intellect",
+      "power2": "Mystic Arts Mastery"
+    },
+    {
+      "id": 49,
+      "name": "Joker",
+      "image": "https://comicvine.gamespot.com/a/uploads/scale_small/12/124259/7538232-three-jokers-1-cvr-fnl-1583776056592.jpg",
+      "superhero": false,
+      "power1": "Strategic Mastermind",
+      "power2": "Psychological Manipulation"
+    },
+    {
+      "id": 50,
+      "name": "Lex Luthor",
+      "image": "https://t4.ftcdn.net/jpg/04/07/73/91/360_F_407739189_fYVltJy28itLKfbnzd8liY1ccWrwLdzr.jpg",
+      "superhero": false,
+      "power1": "Genius-Level Intellect",
+      "power2": "Advanced Technology"
+    },
+    {
+      "id": 51,
+      "name": "Black Manta",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Black_Manta_Aquaman.webp/254px-Black_Manta_Aquaman.webp.png",
+      "superhero": false,
+      "power1": "Advanced Technology",
+      "power2": "Expert Combatant"
+    },
+    {
+      "id": 52,
+      "name": "Reverse-Flash",
+      "image": "https://upload.wikimedia.org/wikipedia/en/8/8e/Reverse-Flash_%28Eobard_Thawne%29.png",
+      "superhero": false,
+      "power1": "Super Speed",
+      "power2": "Temporal Manipulation"
+    },
+    {
+      "id": 53,
+      "name": "Ares",
+      "image": "https://upload.wikimedia.org/wikipedia/en/2/2c/Aresherc.png",
+      "superhero": false,
+      "power1": "Superhuman Strength",
+      "power2": "War Manipulation"
+    },
+    {
+      "id": 54,
+      "name": "Grid",
+      "image": "https://w7.pngwing.com/pngs/942/195/png-transparent-injustice-2-injustice-gods-among-us-cyborg-captain-cold-poison-ivy-cyborg-dc-comics-fictional-character-grid-thumbnail.png",
+      "superhero": false,
+      "power1": "Technopathy",
+      "power2": "Hacking Skills"
+    },
+    {
+      "id": 55,
+      "name": "Merlyn",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/02/Tommy_Merlyn_%28New_52_version%29.jpg",
+      "superhero": false,
+      "power1": "Master Archer",
+      "power2": "Tactical Genius"
+    },
+    {
+      "id": 56,
+      "name": "Sinestro",
+      "image": "https://i.pinimg.com/originals/c1/de/1f/c1de1f502167d91c78405d9f97f233c8.jpg",
+      "superhero": false,
+      "power1": "Fear Manipulation",
+      "power2": "Energy Projection"
+    },
+    {
+      "id": 57,
+      "name": "Doomsday",
+      "image": "https://static.tvtropes.org/pmwiki/pub/images/tumblr_nvmiwfodc61sk9i9ho1_640.jpg",
+      "superhero": false,
+      "power1": "Super Strength and Durability",
+      "power2": "Adaption"
+    },
+    {
+      "id": 58,
+      "name": "Deathstroke",
+      "image": "https://tools.toywiz.com/_images/_webp/_products/lg/76194137316400621.webp",
+      "superhero": false,
+      "power1": "Master Combatant",
+      "power2": "Enhanced Physiology"
+    },
+    {
+      "id": 59,
+      "name": "Killmonger",
+      "image": "https://wallpapers.com/images/hd/killmonger-and-two-jaguars-91yopok3mcsq27gq.jpg",
+      "superhero": false,
+      "power1": "Vibranium Suit",
+      "power2": "Superhuman Agility"
+    },
+    {
+      "id": 60,
+      "name": "Harley Quinn",
+      "image": "https://www.sideshow.com/cdn-cgi/image/quality=90,f=auto/https://www.sideshow.com/storage/product-images/200575/harley-quinn-and-the-joker_dc-comics_gallery_630f8efa6f983.jpg",
+      "superhero": false,
+      "power1": "Acrobatics",
+      "power2": "Unpredictability"
+    },
+    {
+      "name": "Keval",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Villainc.svg",
+      "superhero": false,
+      "power1": "Flying",
+      "power2": "Shapeshifting",
+      "id": 61
+    },
+    {
+      "name": "Alex",
+      "image": "http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcR9RAzxacaSBQwMHdKu9hpG4jvX4d9V_2mcZNx69-m8En6nSEXaRg1LuUmNK-kGLhx6yAX9tLObw5Mzjoga2to",
+      "superhero": true,
+      "power1": "chess god",
+      "power2": "ruby god and javascript",
+      "id": 62
+    }
+  ]
+}
